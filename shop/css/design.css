@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto',sans-serif;
+    background-color: #ecf0f1;
+}
+.top-bar{
+    font-family: 'Raleway', sans-serif;
+    font-size: 120%;
+}
+
+.navbar-brand{
+    font-size: 150%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+display: block;
+height: auto;
+max-width: 100%;
+line-height: 1;
+width: 100%; // Add this
+}
+
+.navbar-default{
+    margin-bottom: 0;
+}
+
+#container{
+    background-color: #ecf0f1;
+}
+
+#img{
+    padding-top: 20px;
+}
+
+.thumbnail{
+    background-color:transparent;
+    border: 0;
+}
+
+hr{
+   border: 0.5px solid black;
+}
+
+.error{
+    color: #FF0000;
+}

@@ -1,0 +1,11 @@
+<!--
+            <?php
+                if(isset($_SESSION['username'])){
+                    $username = "<a href='login.php' class='nav-link'>  <i class='fa fa-user' aria-hidden='true'>{$_SESSION['username']}</i>";
+                    echo $username;
+                }else{
+                    $login = "<a href='login.php' class='nav-link'><i class='fa fa-user' aria-hidden='true'>Login</i>";
+                    echo $login;
+                }
+                ?>
+-->

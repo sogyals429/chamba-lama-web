@@ -1,0 +1,44 @@
+.container{
+    width: 50%;
+}
+
+form.login{
+    padding: 20px;
+    margin: 0;
+    background-color: RGB(36,49,60);
+}
+
+.login{
+    margin-top: 20px;
+    background-color: #dee9ea;
+}
+
+
+.login1{
+    text-align: center;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 50px;
+    color: white;
+    font-weight: 600;
+}
+
+label.text{
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-weight: 600;
+}
+
+small.hint{
+    font-weight: 300;
+    color: rgb(189, 195, 199);
+}
+
+div.forgot{
+    margin-top: 30px;
+    border-top: 2px solid #000;
+}
+
+label.text>a{
+    color: #fff;
+}
+
